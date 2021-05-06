@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>JEP</fullname>
+  <class>
+    <path>[lib/jep/jep-2.3.0.jar]</path>
+  </class>
+  <lastmodsaved>1112914217490</lastmodsaved>
+</library>
